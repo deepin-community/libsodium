@@ -1,9 +1,3 @@
-libsodium (1.0.18-1+deb13u2) unstable; urgency=medium
-
-  * Rebuild with LTO enabled (dpkg vendor feature optimize/lto).
-
- -- tunaichao <tunaichao@uniontech.com>  Fri, 11 Sep 2026 16:40:47 +0800
-
 libsodium (1.0.18-1+deb13u1) trixie-security; urgency=medium
 
   * Backport security fix for CVE-2025-69277: mishandled checks for whether
